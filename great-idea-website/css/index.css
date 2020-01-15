@@ -64,3 +64,14 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav a {
+	text-decoration: none;
+	color: #a6a6a6;
+	font-size: 120%;
+	margin: 4%;
+}
+nav img {
+	margin-left: 10%;
+	margin-top: 1%;
+}
