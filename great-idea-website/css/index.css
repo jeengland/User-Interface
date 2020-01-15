@@ -108,3 +108,18 @@ h2 {
 	display: inline-block;
 	margin: 2%;
 }
+
+main img {
+	display: block;
+	margin: auto;
+}
+
+#below {
+	width: 90%;
+	margin: auto;
+}
+#below div {
+	width: 29%;
+	display: inline-block;
+	margin: 2%;
+}
