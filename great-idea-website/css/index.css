@@ -99,9 +99,13 @@ h2 {
 	padding: 10px;
 	text-align: center;
 }
+
+
+
 #above {
 	width: 90%;
 	margin: auto;
+	border-top: black 1px solid
 }
 #above div {
 	width: 45%;
@@ -117,9 +121,26 @@ main img {
 #below {
 	width: 90%;
 	margin: auto;
+	border-bottom: black 1px solid;
 }
 #below div {
 	width: 29%;
 	display: inline-block;
 	margin: 2%;
+}
+
+footer {
+	width: 90%;
+	margin: auto;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#contact p {
+	margin-top: 1%;
+}
+
+#copyright {
+	width: 15%;
+	margin: auto;
 }
