@@ -80,12 +80,19 @@ nav img {
 }
 
 #hero {
+	margin: auto;
 	margin-top: 10%;
+	margin-bottom: 5%;
+	width: 75%;
 }
 
 #hero div {
 	display: inline-block;
 	margin: auto;
+}
+
+#hero img {
+	margin-left: 30%;
 }
 
 h1 {
@@ -96,7 +103,9 @@ h1 {
 h2 {
 	border: solid black 2px;
 	font-family: 'Titillium Web', sans-serif;
-	padding: 10px;
+	width: 55%;
+	padding: 3% 5%;
+	margin: auto;
 	text-align: center;
 }
 
@@ -112,7 +121,6 @@ h2 {
 	display: inline-block;
 	margin: 2%;
 }
-
 main img {
 	display: block;
 	margin: auto;
@@ -133,7 +141,7 @@ footer {
 	width: 90%;
 	margin: auto;
 	margin-top: 5%;
-	margin-bottom: 5%;
+	margin-bottom:
 }
 
 #contact p {
