@@ -64,3 +64,103 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* Navbar styling */
+
+nav {
+	white-space: nowrap;
+	position: fixed; 
+	z-index: 10;
+	top: 0;
+	background-color: grey;
+	width: 100%;
+	height: 7%;
+}
+nav a {
+	text-decoration: none;
+	color: white;
+	font-size: 120%;
+	margin: 4%;
+}
+nav img {
+	margin-left: 5%;
+	transform: translateY(25%)
+}
+
+/* Hero image styling */
+
+#hero {
+	margin: auto;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	width: 75%;
+}
+
+#hero div {
+	display: inline-block;
+	margin: auto;
+}
+
+#hero img {
+	margin-left: 30%;
+}
+
+h1 {
+	font-size: 500%;
+	text-align: center;
+	margin-top: -50%;
+}
+h2 {
+	border: solid black 2px;
+	font-family: 'Titillium Web', sans-serif;
+	width: 55%;
+	padding: 3% 5%;
+	margin: auto;
+	text-align: center;
+}
+
+/* Main content area styling */
+
+#above {
+	width: 90%;
+	margin: auto;
+	border-top: black 1px solid
+}
+#above div {
+	width: 45%;
+	display: inline-block;
+	margin: 2%;
+}
+main img {
+	display: block;
+	margin: auto;
+}
+
+#below {
+	width: 90%;
+	margin: auto;
+	border-bottom: black 1px solid;
+}
+#below div {
+	width: 29%;
+	display: inline-block;
+	margin: 2%;
+}
+
+/* Footer styling */
+
+footer {
+	width: 90%;
+	margin: auto;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#contact p {
+	margin-top: 1%;
+}
+
+#copyright {
+	width: 15%;
+	margin: auto;
+}
